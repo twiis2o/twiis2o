@@ -42,4 +42,4 @@
 
 ### ✍️ Favorite Quote
 
-![](https://quotes-github-readme.vercel.app/api?quote=This%20is%20the%20real%20secret%20of%20life%20—%20to%20be%20completely%20engaged%20with%20what%20you%20are%20doing%20in%20the%20here%20and%20now.%20And%20instead%20of%20calling%20it%20work%20realize%20it%20is%20play.&author=Alan%20Watts)
+![](https://quotes-github-readme.vercel.app/api?quote=This%20is%20the%20real%20secret%20of%20life%20—%20to%20be%20completely%20engaged%20with%20what%20you%20are%20doing%20in%20the%20here%20and%20now.%20And%20instead%20of%20calling%20it%20work%20realize%20it%20is%20play.&author=Alan%20Watts&theme=nord)
